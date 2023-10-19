@@ -6,7 +6,7 @@ Multithreaded denial of service attack tool written in python3
 
 <img src="screenshot.png" />
 
-# Install
+# Install and Use
 
 <pre>
 <code>
